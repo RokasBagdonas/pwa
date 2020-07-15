@@ -1,5 +1,5 @@
 # certificates
-./private_access/*
+private_access/*
 
 # Logs
 logs
